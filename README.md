@@ -8,7 +8,7 @@
 	It is inspired by Lap Time Simulation of James Hakewill, regarding the simulation of the lap times. 
 	The calculation of the lap time is done in a 'static' is not going to consider the optimal trajectory, but that the center of each track.	
 	As for the tracks you rely on those of RARS (.trk format), in fact you can import them through the editor.
-	It is possible to make a single race or a championship on different circuits, up to a maximum of 20 players. The player chooses a rider and
+	It is possible to make a single race or a championship on different circuits, up to a maximum of 20 players. The player chooses a pilot and
 	a car and opponents remaining will be chosen randomly.
 	Through the editor, also, you can add new cars (and all parties related to them) and pilots.
 
